@@ -1,0 +1,459 @@
+{
+	"2017" : {
+		"photo" : "2017-min.jpg",
+		"locations" : [
+			{
+				"name" : "California",
+				"events" : [
+					{
+						"event" : "Overall",
+						"place" : 42
+					},
+					{
+						"event" : "Sales Presentation",
+						"place" : 52
+					},
+					{
+						"event" : "Design Event",
+						"place" : 38
+					},
+					{
+						"event" : "Acceleration",
+						"place" : 34
+					},
+					{
+						"event" : "Hill Climb",
+						"place" : 38
+					},
+					{
+						"event" : "Maneuverability",
+						"place" : 44
+					},
+					{
+						"event" : "Suspension",
+						"place" : 21
+					},
+					{
+						"event" : "Endurance",
+						"place" : 51
+					}
+
+				]
+			}
+
+		]
+	},
+	"2016" : {
+		"photo" : "2003-min.jpg",
+		"locations" : [
+			{
+				"name" : "Tennessee",
+				"events" : [
+					{
+						"event" : "Overall",
+						"place" : 65
+					},
+					{
+						"event" : "Sales Presentation",
+						"place" : 70
+					},
+					{
+						"event" : "Cost Event",
+						"place" : 59
+					},
+					{
+						"event" : "Design",
+						"place" : 39
+					},
+					{
+						"event" : "Acceleration",
+						"place" : 58
+					},
+					{
+						"event" : "Sled Pull",
+						"place" : 41
+					},
+					{
+						"event" : "Suspension",
+						"place" : 47
+					},
+					{
+						"event" : "Endurance",
+						"place" : 62
+					}
+
+				]
+			}
+
+		]
+	},
+	"2013" : {
+		"photo" : "2005-min.jpg",
+		"locations" : [
+			{
+				"name" : "Tennessee",
+				"events" : [
+					{
+						"event" : "Overall",
+						"place" : 53
+					},{
+						"event" : "Cost",
+						"place" : 26
+					},{
+						"event" : "Design",
+						"place" : 49
+					},{
+						"event" : "Acceleration",
+						"place" : 58
+					},{
+						"event" : "Maneuverability",
+						"place" : 16
+					},{
+						"event" : "Sled pull",
+						"place" : 53
+					},{
+						"event" : "Suspension",
+						"place" : 21
+					},{
+						"event" : "Endurance",
+						"place" : 66
+					}
+
+				]
+			}
+		]
+
+	},
+
+	"2012": {
+		"photo" : "2012-min.jpg",
+		"locations": [
+			{
+				"name" : "Auburn",
+				"events": [
+					{
+						"event": "Suspension and Traction",
+						"place": 12
+					}, {
+						"event": "Design",
+						"place": 25
+					}, {
+						"event": "Cost",
+						"place": 37
+					}, {
+						"event": "Endurance",
+						"place": 63
+					}, {
+						"event": "Land Maneuverability",
+						"place": 12
+					}, {
+						"event": "Acceleration",
+						"place": 51
+					}, {
+						"event": "Hill Climb",
+						"place": 59
+					}, {
+						"event": "Overall",
+						"place": 47
+					}
+				]
+			}
+		]
+	},
+	"2009": {
+		"photo" : "2009-min.jpg",
+		"locations": [
+			{
+				"name" : "Alabama",
+				"events": [
+					{
+						"event": "Overall",
+						"place": 31
+					}, {
+						"event": "Endurance",
+						"place": 48
+					}, {
+						"event": "Suspension & Traction",
+						"place": 16
+					}, {
+						"event": "Pull",
+						"place": 71
+					}, {
+						"event": "Land Manuverability",
+						"place": 11
+					}, {
+						"event": "Acceleration",
+						"place": 32
+					}, {
+						"event": "Cost",
+						"place": 16
+					}
+				]
+			},
+			{
+				"name" : "Wisconsin",
+				"events": [
+					{
+						"event": "Overall",
+						"place": 24
+					}, {
+						"event": "Endurance",
+						"place": 26
+					}, {
+						"event": "Design",
+						"place": 7
+					}, {
+						"event": "Cost",
+						"place": 26
+					}
+				]
+			},
+			{
+				"name" : "Tennesse",
+				"events": [
+					{
+						"event": "Overall",
+						"place": 11
+					}, {
+						"event": "Endurance",
+						"place": 5
+					}, {
+						"event": "Autodesk Inventor Design Communication Award",
+						"place": 2
+					}
+				]
+			},
+			{	
+				"name" : "Montreal",
+				"Montreal": [
+					{
+						"event": "Overall",
+						"place": 40
+					}, {
+						"event": "Suspension & Traction",
+						"place": 20
+					}
+				]
+			}
+		]
+	},
+	"2008": {
+		"photo" : "2008-min.jpg",
+		"locations": [
+			{
+				"name" : "Tennesse",
+				"events": [
+					{
+						"event": "Overall",
+						"place": 11
+					}, {
+						"event": "Endurance",
+						"place": 5
+					}, {
+						"event": "Autodesk Inventor Design Communication Award",
+						"place": 2
+					}
+				]
+			},
+			{
+				"name" : "Montreal",
+				"events": [
+					{
+						"event": "Overall",
+						"place": 40
+					}, {
+						"event": "Suspension & Traction",
+						"place": 20
+					}
+				]
+			}
+		]
+	},
+	"2007": {
+		"photo" : "2007-min.jpg",
+		"locations": [
+			{
+				"name" : "Rochester, NY",
+				"events": [
+					{
+						"event": "Endurance",
+						"place": 32
+					}, {
+						"event": "Overall",
+						"place": 47
+					}, {
+						"event": "Acceleration",
+						"place": 54
+					}, {
+						"event": "Manueverability",
+						"place": 35
+					}, {
+						"event": "Hill Climb",
+						"place": 40
+					}, {
+						"event": "Suspension & Traction",
+						"place": 16
+					}
+				]
+			},
+			{
+				"name" : "South Dakota",
+				"events": [
+					{
+						"event": "Endurance",
+						"place": 56
+					}, {
+						"event": "Maneuverability",
+						"place": 32
+					}
+				]
+			}
+		]
+
+	},
+	"2006": {
+		"photo" : "2006-min.jpg",
+		"locations": [
+			{
+				"name" : "Midwest",
+				"events": [
+					{
+						"event": "Acceleration",
+						"place": 38
+					}, {
+						"event": "Chain Pull",
+						"place": 41
+					}
+				]
+			},
+			{
+				"name" : "East",
+				"events": [
+					{
+						"event": "Overall Design",
+						"place": 22
+					}, {
+						"event": "Water Maneuverability",
+						"place": 20
+					}, {
+						"event": "Land Maneuverability",
+						"place": 21
+					}, {
+						"event": "Suspension & Tracking Course",
+						"place": 17
+					}, {
+						"event": "Overall",
+						"place": 28
+					}
+				]
+			}
+		]
+	},
+
+	"2005": {
+		"photo" : "2005-min.jpg",
+		"locations": [
+			{
+				"name" : "East",
+				"events": [
+					{
+						"event": "Polaris Suspension Innovation and Design",
+						"place": 1
+					}, {
+						"event": "Acceleration",
+						"place": 6
+					}, {
+						"event": "Suspension & Tracking Course",
+						"place": 10
+					}
+				]
+			},
+			{
+				"name" : "Midwest",
+				"events": [
+					{
+						"event": "Endurance race",
+						"place": 25
+					}
+				]
+			},
+			{	
+				"name" : "West",
+				"West": [
+					{
+						"event": "Rock Crawl",
+						"place": 9
+					}, {
+						"event": "Overall Design",
+						"place": 10
+					}, {
+						"event": "TARDEC award",
+						"place": 10
+					}, {
+						"event": "Endurance Race",
+						"place": 19
+					}
+				]
+			}
+		]
+	},
+	"2003": {
+		"photo" : "2003-min.jpg",
+		"locations": [
+			{
+				"name" : "East",
+				"events": [
+					{
+						"event": "Design (silver car)",
+						"place": 6
+					}, {
+						"event": "Maneuverability (silver car)",
+						"place": 11
+					}, {
+						"event": "Overall (silver car)",
+						"place": 23
+					}, {
+						"event": "Maneuverability (black car)",
+						"place": 14
+					}, {
+						"event": "Overall (black car)",
+						"place": 29
+					}]
+			},
+			{	
+				"name" : "Midwest",
+				"events": [
+					{
+						"event": "Endurance (silver car)",
+						"place": 10
+					}, {
+						"event": "Drivetrain (silver car)",
+						"place": 26
+					}, {
+						"event": "Sled Pull (black car)",
+						"place": 18
+					}, {
+						"event": "Prodction (black car)",
+						"place": 24
+					}, {
+						"event": "Endurance (black car)",
+						"place": 23
+					}]
+			},
+			{	
+				"name" : "West",
+				"events": [
+					{
+						"event": "Sales",
+						"place": 6
+					}, {
+						"event": "Overall",
+						"place": 11
+					}, {
+						"event": "Endurance",
+						"place": 11
+					}]
+			}
+		]
+	}
+}
